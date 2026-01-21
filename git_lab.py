@@ -3,7 +3,9 @@ import math
 def add_numbers(a, b):
     """Returns the correct sum of two numbers."""
     return a + b
+
 def multiply_numbers(a, b):
+    ## new function
     """Returns the product of two numbers."""
     return a * b
 
